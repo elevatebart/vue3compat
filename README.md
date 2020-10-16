@@ -1,1 +1,1 @@
-# vue3compat
+# Vue 3 compatibility table of main VueJs libraries
